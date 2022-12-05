@@ -238,65 +238,100 @@ plt.show()
 
 
 ## Removing Outliers:
+
 ![image](https://user-images.githubusercontent.com/113021631/205608611-bd978ed4-eb7a-4739-b6f1-41b7e2da1957.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205608730-15c897bc-eb40-43f0-9b61-6d74f2f25952.png)
 
 
 ## Line PLot:
+
 ![image](https://user-images.githubusercontent.com/113021631/205609116-2de98db3-c077-4338-a95d-a0d97f0daf97.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205609233-a3fcedc4-39cf-423f-8275-22a42202a01d.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205609351-1946981e-4c9e-41a3-97c3-57a2fac92573.png)
 
 ## Bar Plots:
+
 ![image](https://user-images.githubusercontent.com/113021631/205609534-5b597c3f-7307-483a-a396-b8ef75c79c96.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205609645-9ee6144a-28e7-4599-89bf-2abf796d8478.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205609836-10d8135b-71ff-4adf-84eb-f4c40b2b56b9.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205609956-d9ff5afe-ab08-4b2a-b5f7-5c4de5d096c2.png)
 
 
 ## Histograms:
+
 ![image](https://user-images.githubusercontent.com/113021631/205610129-e5fadfaf-9be9-4a3f-b449-4c85271db081.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205610234-ccdf5e8f-7a74-4fa6-a1ce-5ddb38634e11.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205610398-2ec38172-cd11-4837-95b1-31b9e8a74649.png)
 
 ## Count plots:
+
 ![image](https://user-images.githubusercontent.com/113021631/205610538-545a730c-1438-4007-ba27-fa83d9e97826.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205610693-9c32f419-70fa-459e-ad89-b63a50326d1d.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205610913-f96592b7-f904-4857-b01f-438284134ecc.png)
 
 
 ## Bar Charts:
+
 ![image](https://user-images.githubusercontent.com/113021631/205611003-dd04ab94-9a89-4fcf-ba19-c9f084ebc692.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611099-5e7f8185-4708-4c51-b3c7-62d4bd35fcdf.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611208-476b87ec-ace5-48c5-9579-ce69ba23bcf5.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611316-964884a3-d3f9-4d72-b800-b90bfe39d738.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611453-86905b47-88bb-48ab-b1e7-de68a5088818.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611607-8fc83225-2917-496c-927c-a044440374af.png)
 
 ## KDE Plots:
+
 ![image](https://user-images.githubusercontent.com/113021631/205611764-fe9fbd7d-1c24-4afb-8db0-33132ca1bbe0.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205611857-24e6b010-c61d-428e-a49e-3626813091a0.png)
 
+
 ## Violin Plot:
+
 ![image](https://user-images.githubusercontent.com/113021631/205611978-61b6bad5-674f-4c71-8795-30af2e887da1.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205612047-63b8a597-1132-4388-a779-2560b31575d5.png)
 
 
 ## Point Plots:
+
 ![image](https://user-images.githubusercontent.com/113021631/205613971-6044dbdc-b87c-498f-9e22-e4e9481b4d49.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205614081-5ebd2199-5cab-46ca-9e8e-370bb5916dc1.png)
 
 
 
 ## Pie Charts:
+
 ![image](https://user-images.githubusercontent.com/113021631/205612295-afb1799a-c57e-43f5-83bd-4ab03d05d098.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205612375-8d2596e4-8bb9-4e9e-9cac-b2fa0767096c.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205612515-f03566dc-aa92-493e-8465-60f2fb2c435d.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205612661-7af18df7-7196-4357-8f97-75614207f42a.png)
+
 ![image](https://user-images.githubusercontent.com/113021631/205612740-129aaf65-b7fc-4340-ba2b-d5f2d0a324f3.png)
 
 
+
 ## HeatMap:
+
 ![image](https://user-images.githubusercontent.com/113021631/205612186-c0285876-a95b-4fd8-9b39-bb5dd3cb8e27.png)
 
 # Result:
