@@ -283,6 +283,9 @@ plt.show()
 
 
 ## Point Plots:
+![image](https://user-images.githubusercontent.com/113021631/205613971-6044dbdc-b87c-498f-9e22-e4e9481b4d49.png)
+![image](https://user-images.githubusercontent.com/113021631/205614081-5ebd2199-5cab-46ca-9e8e-370bb5916dc1.png)
+
 
 
 ## Pie Charts:
